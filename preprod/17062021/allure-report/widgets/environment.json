@@ -1,0 +1,10 @@
+[ {
+  "values" : [ "EOP" ],
+  "name" : "PROJECT"
+}, {
+  "values" : [ "PREPROD" ],
+  "name" : "ENVIRONMENT"
+}, {
+  "values" : [ "chrome" ],
+  "name" : "BROWSER"
+} ]

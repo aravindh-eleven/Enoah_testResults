@@ -1,0 +1,68 @@
+{
+  "uid" : "d2721b7871136c4f",
+  "name" : "Verify and search the pending place order for LEGAL",
+  "fullName" : "Search E2E validations .Verify and search the pending place order for LEGAL",
+  "historyId" : "3d594932f4ec5054cf1bf647112f71be",
+  "time" : {
+    "start" : 1623903302995,
+    "stop" : 1623903346933,
+    "duration" : 43938
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Search"
+  }, {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "testId",
+    "value" : "https://www.atlassian.com/software/jira"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "Search E2E validations "
+  }, {
+    "name" : "testClass",
+    "value" : "Search E2E validations "
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify and search the pending place order for LEGAL"
+  }, {
+    "name" : "package",
+    "value" : "Search E2E validations "
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-91.0.4472.106"
+  } ],
+  "links" : [ {
+    "name" : "https://www.atlassian.com/software/jira",
+    "url" : "https://www.atlassian.com/software/jira",
+    "type" : "tms"
+  } ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d2721b7871136c4f.json",
+  "parameterValues" : [ "chrome-91.0.4472.106" ]
+}

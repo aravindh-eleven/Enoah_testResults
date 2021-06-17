@@ -1,0 +1,61 @@
+{
+  "uid" : "497584d92b355e8c",
+  "name" : "Create Carrier using mandatory fields",
+  "fullName" : "Carrier creation E2E validations .Create Carrier using mandatory fields",
+  "historyId" : "6269ce131be4e4c55910abfc76b53a2b",
+  "time" : {
+    "start" : 1623902267308,
+    "stop" : 1623902309366,
+    "duration" : 42058
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Carrier Creation"
+  }, {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Carrier creation E2E validations "
+  }, {
+    "name" : "testClass",
+    "value" : "Carrier creation E2E validations "
+  }, {
+    "name" : "testMethod",
+    "value" : "Create Carrier using mandatory fields"
+  }, {
+    "name" : "package",
+    "value" : "Carrier creation E2E validations "
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-91.0.4472.106"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "497584d92b355e8c.json",
+  "parameterValues" : [ "chrome-91.0.4472.106" ]
+}

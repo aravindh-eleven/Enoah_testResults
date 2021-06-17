@@ -1,0 +1,101 @@
+[ {
+  "uid" : "66b71eddd84a946e",
+  "name" : "Verify the placeOrder legal in expert application",
+  "time" : {
+    "start" : 1623902456567,
+    "stop" : 1623902463754,
+    "duration" : 7187
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d8c62a931a925ab",
+  "name" : "Verify the placeOrder life in expert application",
+  "time" : {
+    "start" : 1623902488239,
+    "stop" : 1623902493461,
+    "duration" : 5222
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "497584d92b355e8c",
+  "name" : "Create Carrier using mandatory fields",
+  "time" : {
+    "start" : 1623902267308,
+    "stop" : 1623902309366,
+    "duration" : 42058
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ba5987ea6c19cae8",
+  "name" : "Verify the ordering office in expert application",
+  "time" : {
+    "start" : 1623902408390,
+    "stop" : 1623902418125,
+    "duration" : 9735
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8392c704ffade7db",
+  "name" : "Verify and search the pending place order for LIFE",
+  "time" : {
+    "start" : 1623902355182,
+    "stop" : 1623902375300,
+    "duration" : 20118
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "32fba39ebb3d78a7",
+  "name" : "Verify the place order for LIFE",
+  "time" : {
+    "start" : 1623902463754,
+    "stop" : 1623902488237,
+    "duration" : 24483
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5386ea153fe463c",
+  "name" : "Validate the Admin Profile section",
+  "time" : {
+    "start" : 1623902380495,
+    "stop" : 1623902408390,
+    "duration" : 27895
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4a36c31ac3305c96",
+  "name" : "Validate the new created carrier details are available in eXpert",
+  "time" : {
+    "start" : 1623902309366,
+    "stop" : 1623902320511,
+    "duration" : 11145
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d23c9d8733fd87c7",
+  "name" : "Verify and search the pending place order for LEGAL",
+  "time" : {
+    "start" : 1623902325899,
+    "stop" : 1623902355180,
+    "duration" : 29281
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "11efb00787a81725",
+  "name" : "Verify the place order for LEGAL",
+  "time" : {
+    "start" : 1623902423471,
+    "stop" : 1623902456566,
+    "duration" : 33095
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

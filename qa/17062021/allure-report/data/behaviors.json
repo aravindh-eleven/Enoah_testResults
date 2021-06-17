@@ -1,0 +1,159 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "Carrier Creation",
+    "children" : [ {
+      "name" : "Create Carrier using mandatory fields",
+      "uid" : "497584d92b355e8c",
+      "parentUid" : "db8ab7ddd85cf34494181871fcf3d4fc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1623902267308,
+        "stop" : 1623902309366,
+        "duration" : 42058
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-91.0.4472.106" ]
+    }, {
+      "name" : "Validate the new created carrier details are available in eXpert",
+      "uid" : "4a36c31ac3305c96",
+      "parentUid" : "db8ab7ddd85cf34494181871fcf3d4fc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1623902309366,
+        "stop" : 1623902320511,
+        "duration" : 11145
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-91.0.4472.106" ]
+    } ],
+    "uid" : "db8ab7ddd85cf34494181871fcf3d4fc"
+  }, {
+    "name" : "Search",
+    "children" : [ {
+      "name" : "Verify and search the pending place order for LEGAL",
+      "uid" : "d23c9d8733fd87c7",
+      "parentUid" : "b4c391a54a6b5af78881245cab8481cb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1623902325899,
+        "stop" : 1623902355180,
+        "duration" : 29281
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-91.0.4472.106" ]
+    }, {
+      "name" : "Verify and search the pending place order for LIFE",
+      "uid" : "8392c704ffade7db",
+      "parentUid" : "b4c391a54a6b5af78881245cab8481cb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1623902355182,
+        "stop" : 1623902375300,
+        "duration" : 20118
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-91.0.4472.106" ]
+    } ],
+    "uid" : "b4c391a54a6b5af78881245cab8481cb"
+  }, {
+    "name" : "Admin Profile",
+    "children" : [ {
+      "name" : "Validate the Admin Profile section",
+      "uid" : "5386ea153fe463c",
+      "parentUid" : "c1b0e2aff6502209dcc7d39185f525c2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1623902380495,
+        "stop" : 1623902408390,
+        "duration" : 27895
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-91.0.4472.106" ]
+    }, {
+      "name" : "Verify the ordering office in expert application",
+      "uid" : "ba5987ea6c19cae8",
+      "parentUid" : "c1b0e2aff6502209dcc7d39185f525c2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1623902408390,
+        "stop" : 1623902418125,
+        "duration" : 9735
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-91.0.4472.106" ]
+    } ],
+    "uid" : "c1b0e2aff6502209dcc7d39185f525c2"
+  }, {
+    "name" : "PlaceOrder Legal",
+    "children" : [ {
+      "name" : "Verify the place order for LEGAL",
+      "uid" : "11efb00787a81725",
+      "parentUid" : "4baa482bbbb7925ca2872e891d4f7e6a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1623902423471,
+        "stop" : 1623902456566,
+        "duration" : 33095
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-91.0.4472.106" ]
+    }, {
+      "name" : "Verify the placeOrder legal in expert application",
+      "uid" : "66b71eddd84a946e",
+      "parentUid" : "4baa482bbbb7925ca2872e891d4f7e6a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1623902456567,
+        "stop" : 1623902463754,
+        "duration" : 7187
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-91.0.4472.106" ]
+    } ],
+    "uid" : "4baa482bbbb7925ca2872e891d4f7e6a"
+  }, {
+    "name" : "PlaceOrder LIFE",
+    "children" : [ {
+      "name" : "Verify the place order for LIFE",
+      "uid" : "32fba39ebb3d78a7",
+      "parentUid" : "8d8f9fdad6f2e9369ee2057e3454e899",
+      "status" : "passed",
+      "time" : {
+        "start" : 1623902463754,
+        "stop" : 1623902488237,
+        "duration" : 24483
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-91.0.4472.106" ]
+    } ],
+    "uid" : "8d8f9fdad6f2e9369ee2057e3454e899"
+  }, {
+    "name" : "PlaceOrder Life",
+    "children" : [ {
+      "name" : "Verify the placeOrder life in expert application",
+      "uid" : "d8c62a931a925ab",
+      "parentUid" : "aba4629eb924b40f3393ee8686c6ef5c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1623902488239,
+        "stop" : 1623902493461,
+        "duration" : 5222
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-91.0.4472.106" ]
+    } ],
+    "uid" : "aba4629eb924b40f3393ee8686c6ef5c"
+  } ]
+}

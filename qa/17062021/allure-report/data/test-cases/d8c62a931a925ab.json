@@ -1,0 +1,61 @@
+{
+  "uid" : "d8c62a931a925ab",
+  "name" : "Verify the placeOrder life in expert application",
+  "fullName" : " PlaceOrder E2E validation .Verify the placeOrder life in expert application",
+  "historyId" : "d217fbab1b1d28b1bfb6f0b9e73f9834",
+  "time" : {
+    "start" : 1623902488239,
+    "stop" : 1623902493461,
+    "duration" : 5222
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "PlaceOrder Life"
+  }, {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-3"
+  }, {
+    "name" : "suite",
+    "value" : " PlaceOrder E2E validation "
+  }, {
+    "name" : "testClass",
+    "value" : " PlaceOrder E2E validation "
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify the placeOrder life in expert application"
+  }, {
+    "name" : "package",
+    "value" : " PlaceOrder E2E validation "
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-91.0.4472.106"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d8c62a931a925ab.json",
+  "parameterValues" : [ "chrome-91.0.4472.106" ]
+}

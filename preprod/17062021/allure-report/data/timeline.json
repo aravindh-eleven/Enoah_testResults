@@ -1,0 +1,151 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "0-3",
+    "children" : [ {
+      "name" : "Verify the place order for LIFE",
+      "uid" : "bf008447b89f54bf",
+      "parentUid" : "b755a79e149728f67460aea38b0710e0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1623903544684,
+        "stop" : 1623903605273,
+        "duration" : 60589
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-91.0.4472.106" ]
+    }, {
+      "name" : "Verify the placeOrder legal in expert application",
+      "uid" : "f96bf2615eb79ea6",
+      "parentUid" : "b755a79e149728f67460aea38b0710e0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1623903521163,
+        "stop" : 1623903544684,
+        "duration" : 23521
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-91.0.4472.106" ]
+    }, {
+      "name" : "Verify the place order for LEGAL",
+      "uid" : "34af909ad28c1c6d",
+      "parentUid" : "b755a79e149728f67460aea38b0710e0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1623903465905,
+        "stop" : 1623903521161,
+        "duration" : 55256
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-91.0.4472.106" ]
+    }, {
+      "name" : "Verify the placeOrder life in expert application",
+      "uid" : "498ef0241d68300c",
+      "parentUid" : "b755a79e149728f67460aea38b0710e0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1623903605281,
+        "stop" : 1623903625102,
+        "duration" : 19821
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-91.0.4472.106" ]
+    } ],
+    "uid" : "b755a79e149728f67460aea38b0710e0"
+  }, {
+    "name" : "0-0",
+    "children" : [ {
+      "name" : "Create Carrier using mandatory fields",
+      "uid" : "6d306347f676a285",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1623903222608,
+        "stop" : 1623903271637,
+        "duration" : 49029
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-91.0.4472.106" ]
+    }, {
+      "name" : "Validate the new created carrier details are available in eXpert",
+      "uid" : "f62a79dc5e344332",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1623903271639,
+        "stop" : 1623903297526,
+        "duration" : 25887
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-91.0.4472.106" ]
+    } ],
+    "uid" : "516fe00eea05ad99e936fa729b55eff4"
+  }, {
+    "name" : "0-1",
+    "children" : [ {
+      "name" : "Verify and search the pending place order for LIFE",
+      "uid" : "91ac5c0b4b927def",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1623903346934,
+        "stop" : 1623903397378,
+        "duration" : 50444
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-91.0.4472.106" ]
+    }, {
+      "name" : "Verify and search the pending place order for LEGAL",
+      "uid" : "d2721b7871136c4f",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1623903302995,
+        "stop" : 1623903346933,
+        "duration" : 43938
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-91.0.4472.106" ]
+    } ],
+    "uid" : "27fa874cadc1574e37a07abb440963bd"
+  }, {
+    "name" : "0-2",
+    "children" : [ {
+      "name" : "Verify the ordering office in expert application",
+      "uid" : "5b9e0de526f3b88b",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1623903437094,
+        "stop" : 1623903460415,
+        "duration" : 23321
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-91.0.4472.106" ]
+    }, {
+      "name" : "Validate the Admin Profile section",
+      "uid" : "e327a27a94762af",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1623903402856,
+        "stop" : 1623903437092,
+        "duration" : 34236
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-91.0.4472.106" ]
+    } ],
+    "uid" : "880a094af3dffab161e2023284569d6f"
+  } ]
+}
