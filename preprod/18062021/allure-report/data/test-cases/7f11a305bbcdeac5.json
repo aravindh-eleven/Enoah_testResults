@@ -1,0 +1,61 @@
+{
+  "uid" : "7f11a305bbcdeac5",
+  "name" : "Verify the placeOrder legal in expert application",
+  "fullName" : " PlaceOrder E2E validation .Verify the placeOrder legal in expert application",
+  "historyId" : "751b4acdea76048b012273332dfdca07",
+  "time" : {
+    "start" : 1623990657490,
+    "stop" : 1623990673734,
+    "duration" : 16244
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "PlaceOrder Legal"
+  }, {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-3"
+  }, {
+    "name" : "suite",
+    "value" : " PlaceOrder E2E validation "
+  }, {
+    "name" : "testClass",
+    "value" : " PlaceOrder E2E validation "
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify the placeOrder legal in expert application"
+  }, {
+    "name" : "package",
+    "value" : " PlaceOrder E2E validation "
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-91.0.4472.106"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7f11a305bbcdeac5.json",
+  "parameterValues" : [ "chrome-91.0.4472.106" ]
+}

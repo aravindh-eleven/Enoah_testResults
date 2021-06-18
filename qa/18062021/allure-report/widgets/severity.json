@@ -1,0 +1,101 @@
+[ {
+  "uid" : "76c5ad250085d490",
+  "name" : "Verify the place order for LIFE",
+  "time" : {
+    "start" : 1623989512248,
+    "stop" : 1623989537084,
+    "duration" : 24836
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b2c4da2f6e684f41",
+  "name" : "Validate the Admin Profile section",
+  "time" : {
+    "start" : 1623989421872,
+    "stop" : 1623989448641,
+    "duration" : 26769
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d2e39a5d5a4f3e46",
+  "name" : "Verify the place order for LEGAL",
+  "time" : {
+    "start" : 1623989469286,
+    "stop" : 1623989506150,
+    "duration" : 36864
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "92a4dbef522c112a",
+  "name" : "Verify the placeOrder legal in expert application",
+  "time" : {
+    "start" : 1623989506156,
+    "stop" : 1623989512248,
+    "duration" : 6092
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "40358ad134ffacc6",
+  "name" : "Verify the ordering office in expert application",
+  "time" : {
+    "start" : 1623989448642,
+    "stop" : 1623989463904,
+    "duration" : 15262
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "348d68274549e201",
+  "name" : "Verify the placeOrder life in expert application",
+  "time" : {
+    "start" : 1623989537085,
+    "stop" : 1623989542708,
+    "duration" : 5623
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7cc92bf4d0784657",
+  "name" : "Verify and search the pending place order for LEGAL",
+  "time" : {
+    "start" : 1623989363169,
+    "stop" : 1623989394063,
+    "duration" : 30894
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ee53b778164ad271",
+  "name" : "Create Carrier using mandatory fields",
+  "time" : {
+    "start" : 1623989296632,
+    "stop" : 1623989343625,
+    "duration" : 46993
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "516a8d283b0d5a70",
+  "name" : "Validate the new created carrier details are available in eXpert",
+  "time" : {
+    "start" : 1623989343627,
+    "stop" : 1623989356901,
+    "duration" : 13274
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ded6176186694122",
+  "name" : "Verify and search the pending place order for LIFE",
+  "time" : {
+    "start" : 1623989394064,
+    "stop" : 1623989416592,
+    "duration" : 22528
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

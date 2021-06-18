@@ -1,0 +1,68 @@
+{
+  "uid" : "ded6176186694122",
+  "name" : "Verify and search the pending place order for LIFE",
+  "fullName" : "Search E2E validations .Verify and search the pending place order for LIFE",
+  "historyId" : "c57582c0597a90aff02e64edaccd1056",
+  "time" : {
+    "start" : 1623989394064,
+    "stop" : 1623989416592,
+    "duration" : 22528
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Search"
+  }, {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "testId",
+    "value" : "https://www.atlassian.com/software/jira"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "Search E2E validations "
+  }, {
+    "name" : "testClass",
+    "value" : "Search E2E validations "
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify and search the pending place order for LIFE"
+  }, {
+    "name" : "package",
+    "value" : "Search E2E validations "
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-91.0.4472.106"
+  } ],
+  "links" : [ {
+    "name" : "https://www.atlassian.com/software/jira",
+    "url" : "https://www.atlassian.com/software/jira",
+    "type" : "tms"
+  } ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ded6176186694122.json",
+  "parameterValues" : [ "chrome-91.0.4472.106" ]
+}

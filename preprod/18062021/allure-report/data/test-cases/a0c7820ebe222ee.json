@@ -1,0 +1,61 @@
+{
+  "uid" : "a0c7820ebe222ee",
+  "name" : "Validate the new created carrier details are available in eXpert",
+  "fullName" : "Carrier creation E2E validations .Validate the new created carrier details are available in eXpert",
+  "historyId" : "3861f5f201d9e7abe475c0a08d7303f0",
+  "time" : {
+    "start" : 1623990379308,
+    "stop" : 1623990405554,
+    "duration" : 26246
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Carrier Creation"
+  }, {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Carrier creation E2E validations "
+  }, {
+    "name" : "testClass",
+    "value" : "Carrier creation E2E validations "
+  }, {
+    "name" : "testMethod",
+    "value" : "Validate the new created carrier details are available in eXpert"
+  }, {
+    "name" : "package",
+    "value" : "Carrier creation E2E validations "
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-91.0.4472.106"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a0c7820ebe222ee.json",
+  "parameterValues" : [ "chrome-91.0.4472.106" ]
+}
